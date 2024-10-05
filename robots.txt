@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yebuzajuwozo.pages.dev/sitemap.xml
